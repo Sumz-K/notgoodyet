@@ -1,0 +1,25 @@
+.heading{
+    margin-top: 10px;
+    margin-left: 30%;
+}
+
+.he2{
+    margin-top: 40px;
+}
+
+.spn{
+  display: flex;
+
+}
+
+.card{
+    margin: 10px;
+}
+
+body{
+    background: linear-gradient(#2193b0,#6dd5ed);
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
